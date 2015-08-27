@@ -1,0 +1,10 @@
+name = "TBR Per Diem"
+description = "Exposes Per Diem Table"
+dependencies[] = views
+package = "TBR"
+core = 7.x
+version = "7.x-1.0"
+project = "tbr_perdiem"
+
+files[] = tbr_perdiem.module
+files[] = tbr_perdiem.views.inc
